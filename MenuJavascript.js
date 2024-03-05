@@ -90,7 +90,7 @@ function fnPretzelTAdd() {
 function fnDessertBD() {
     toggleDescription("DessertB", {
         row1: "<b>Dessert Burrito ($8.99):</b> The dessert burrito is filled with \n\
-              your choice of ice cream (Chocolate, Vanilla, or Strawberry). It's \n\
+              your choice of ice cream (Chocolate, Vanilla, or Strawberry). Its \n\
               shell is basically what happens when you combine a crepe and tortilla. \n\
               Alongside the ice cream is rainbow sprinkles and chocolate chips. \n\
               Finally, the shell is drizzled in chocolate syrup made in-house.",
